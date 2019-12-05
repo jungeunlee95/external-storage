@@ -1,3 +1,7 @@
+mount aws efs to eks cluster: [AWS 공식문서](https://aws.amazon.com/ko/premiumsupport/knowledge-center/eks-pods-efs/)참고
+
+---
+
 Although many of these recipes still work, this repo is now deprecated, moving work to https://github.com/kubernetes-sigs/sig-storage-lib-external-provisioner, come join us there !  
 
 # External Storage
